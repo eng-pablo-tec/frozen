@@ -1,37 +1,18 @@
-.tela1,
-.tela2,
-.tela3 {
-  height: 650px;
-  width: 650px;
-  border: 5px solid black;
-}
-.tela1 {
-  background-image: url(https://wallpapers.com/images/hd/boxing-ring-background-1136-x-936-2tli8c7bggok6b4t.jpg);
-  background-size: 100% 100%;
-  display: none1;
-}
-.tela2 {
-  background-image: url(https://img3.stockfresh.com/files/i/izakowski/m/54/3673336_stock-vector-boxer-sportsman-cartoon-illustration.jpg);
-  background-size: 100% 200%;
-  background-repeat: no-repeat;
-  display: none;
-}
-.tela3 {
-  background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/4595070-boxer-campeao-boxe-atleta-carregando-um-cinto-conceito-em-cartoon-ilustracao-vetor.jpg);
-  background-size: 100% 100%;
-  display: none;
-}
-button {
-  font-size: 30px;
-}
-.botao_ganhou {
-  display: none;
-}
-.life {
-  height: 25px;
-  width: 100px;
-  background-color: green;
-  margin-left: 30%;
-  color: white;
-  text-align: center;
-}
+
+*{ color:white; font-size: 20px; } .tela1{ height:650px; width:650px;
+  background-image:
+  url(https://lumiere-a.akamaihd.net/v1/images/hb_frozenanniversaryrefresh_fallback_mobile_2326_v2_f49_77e68f09.jpeg?region=0%2C0%2C640%2C480);
+  background-size: 100% 100%; display: flex; justify-content: center; align-items:
+  center; } .botao{ margin-top: 140px; background-color: cyan; border: 3px solid
+  white; border-radius: 10px; height: 50px; width: 100px; } .tela2{
+  background-image:
+  url(https://pipocamusical.com.br/wp-content/uploads/2014/01/filme-frozen-princesa-boneco-neve.jpg);
+  background-size: 100% 100%; height:650px; width:650px; display: none; } .tela3{
+  height:650px; width:650px; background-image:
+  url(https://m.media-amazon.com/images/I/71mABJOwQBL._UF1000,1000_QL80_.jpg);
+  display: none; } .tela4{ background-image:
+  url(https://pipocamusical.com.br/wp-content/uploads/2014/01/filme-frozen-princesa-boneco-neve.jpg);
+  background-size: 100% 100%; height:650px; width:650px; display: none; } .tela5{
+  background-image:
+  url(https://s3.amazonaws.com/blog.dentrodahistoria.com.br/wp-content/uploads/2020/01/29180150/personagens-de-frozen-scaled.jpg);
+  background-size: 100% 100%; height:650px; width:650px; display: none; }
